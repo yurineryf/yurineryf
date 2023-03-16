@@ -13,7 +13,8 @@
 <img align="center" alt="Yuri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Yuri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Yuri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Yuri-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="Yuri-UiPath" height="30" width="40" src="https://logowik.com/content/uploads/images/uipath1873.jpg">
+<img align="center" alt="Yuri-BluePrism" height="30" width="40" src="https://www.pngitem.com/pimgs/m/236-2366819_blue-prism-rpa-logo-hd-png-download.png">
 
 <img align="right" alt="Yuri-yoda" src="https://i.giphy.com/media/JlxFcvNuzlPYA/giphy.webp">
 </div>
